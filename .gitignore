@@ -7,9 +7,27 @@
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+/.idea
 .DS_Store
 /build
 /captures
 .externalNativeBuild
 .cxx
 local.properties
+
+# Key storage
+/keys
+
+# Built application files
+*.apk
+*.ap_
+
+# Log Files
+*.log
+*.diff
+
+# Keystore files
+*.jks
+
+# APK folder
+app/bed/
